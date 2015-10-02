@@ -3,7 +3,7 @@ OAR Documentation Theme
 
 OAR Documentation Theme is a Python package providing Sphinx theme for the OAR documentation at http://oar.imag.fr/docs/2.5/
 
-*This project is based on `JuliaDoc`_, a sphinx theme for the Julia language documentation.*
+This project is based on `JuliaDoc`_, a sphinx theme for the Julia language documentation.
 
 .. _`JuliaDoc`: https://github.com/JuliaLang/JuliaDoc
 
