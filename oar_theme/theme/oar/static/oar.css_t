@@ -1,16 +1,16 @@
 @import url("css/theme.css");
 
-.wy-nav-content,
-.wy-nav-content-wrap {
-    color: #222;
-    background: #fff;
+
+body,
+.wy-body-for-nav,
+.wy-side-nav-search {
+    background: #fcfcfc;
 }
 
 body,
 .wy-body-for-nav,
-.wy-nav-side,
-.wy-side-nav-search,
-.wy-side-nav-search img {
+.wy-nav-content-wrap,
+.wy-side-nav-search {
     background: #fcfcfc;
 }
 
@@ -18,13 +18,7 @@ body,
 .wy-side-nav-search,
 .wy-nav-side {
     border-right: none;
-    box-shadow: inset -14px 0px 5px -12px rgb(210,210,210);
-}
-
-.wy-menu-vertical li.current > a,
-.wy-menu-vertical li.current > a:hover {
-    background: #fff;
-    box-shadow: none;
+    box-shadow: -12px 0px 6px -12px #D2D2D2 inset;
 }
 
 .wy-side-nav-search img {
